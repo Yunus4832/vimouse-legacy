@@ -22,9 +22,9 @@ Vimouse 希望能够像 vim 编辑器一样操作鼠标。
 
 ```bat
 REM 克隆项目
-git clone https://github.com/Yunus4832/Vimouse.git
+git clone https://github.com/Yunus4832/vimouse-legacy.git
 REM 进入工作目录
-cd Vimouse
+cd vimouse-legacy
 REM 创建 Python 虚拟环境
 python -m venv venv
 REM 激活虚拟环境
@@ -63,15 +63,3 @@ REM 执行打包命令
   一个典型的应用场景时鼠标右键点击弹出的菜单，因此，在 Vimouse 中，右键点击会自动进入该模式，此时可以使用 `j` `k` `h` `l` 选择菜单或者子菜单，并使用 `enter` 确认菜单中的选择。
 
 - **退出**, 如果想要退出 Vimouse, 需要进入命令模式，然后执行退出命令, 即 `:q`, 同 vim, 目前命令模式只支持退出命令
-
-## 3、配置
-
-开发中......
-
-## 4、原理
-
-更新中......
-
-## 5、 Q & A
-
-更新中......
