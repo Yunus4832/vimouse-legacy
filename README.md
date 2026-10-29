@@ -1,3 +1,10 @@
+> **项目已归档 / Archived**
+>
+> 此仓库保留原 Python / Windows 版本的代码与历史，不再维护。后续开发请访问 Rust / Linux 重写版：
+> [Yunus4832/vimouse](https://github.com/Yunus4832/vimouse)。
+>
+> This repository preserves the original Python / Windows implementation. Active development continues in [Yunus4832/vimouse](https://github.com/Yunus4832/vimouse).
+
 重构 Vimouse
 ------
 [参考项目: https://github.com/firemakergk/vimouse](https://github.com/firemakergk/vimouse)
